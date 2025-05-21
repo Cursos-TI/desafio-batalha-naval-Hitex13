@@ -4,9 +4,6 @@
 // Este código inicial serve como base para o desenvolvimento do sistema de Batalha Naval.
 // Siga os comentários para implementar cada parte do desafio.
 
-int main() {
-    #include <stdio.h>
-
 int main(){
 
     char Linha[10] ={'A','B','C','D','E','F','G','H','I','J'} ;
@@ -46,7 +43,7 @@ int main(){
         
     }
     
+return 0;
 
-}
-    return 0;
-}
+} 
+
